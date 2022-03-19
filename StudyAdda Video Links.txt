@@ -1,0 +1,80 @@
+HTML
+	
+	1.	HTML Introduction In Hindi
+	
+		https://www.dropbox.com/s/qa4y30ra1zp30vp/HTML%20Introduction%20in%20Hindi%20Urdu.mkv?dl=0
+	
+	2.	HTML Basic Syntax In Hindi
+
+		https://www.dropbox.com/s/8uzaub5yp4pys7a/HTML%20Basic%20Syntax%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+	
+	3.   HTML Basic Syntax Practical In Hindi
+
+		https://www.dropbox.com/s/lmar0th5uci8u2o/HTML%20Basic%20Syntax%20Practical%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	4.	HTML Text Fromatting Tags Part-I
+
+		https://www.dropbox.com/s/0fli1vf8vba0ken/HTML%20Text%20Formatting%20Tags%20Tutorial%20in%20Hindi%20%20%20Urdu%20-%20Part%20I.mkv?dl=0
+
+	5.	HTML Text Fromatting Tags Part-II
+		
+		https://www.dropbox.com/s/yzs97gs4he3v7vt/HTML%20Text%20Formatting%20Tags%20Tutorial%20in%20Hindi%20%20%20Urdu%20-%20Part%20II.mkv?dl=0
+
+	6.   HTML Text Fromatting Font Tags Part-III
+
+		https://www.dropbox.com/s/wsmm08k0v144w6j/HTML%20Text%20Formatting%20Font%20Tag%20Tutorial%20in%20Hindi%20%20%20Urdu%20-%20Part%20III.mkv?dl=0
+
+
+CSS
+
+	1.	CSS Introduction In Hindi
+	
+		https://www.dropbox.com/s/y4xxc1mow1wogr7/CSS%20Introduction%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	2.	CSS Implementation Tutorial in Hindi
+		
+		https://www.dropbox.com/s/j3gg4jbi6jq3fjq/CSS%20Implementation%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	3.	CSS Color & Background Color
+
+		https://www.dropbox.com/s/rj6n9d4hpb7e8bf/CSS%20Color%20%26%20Background%20Color%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	4.	CSS Border Tutorial
+
+		https://www.dropbox.com/s/zq1lenygy62iwq2/CSS%20Border%20Tutorial%20in%20Hindi%20%20%20Urdu.mp4?dl=0
+
+	5.	CSS Basic Selectors tutorial
+
+		https://www.dropbox.com/s/qw111y85i90pjs6/CSS%20Basic%20Selectors%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	6.	CSS Min-height & Max-height
+
+		https://www.dropbox.com/s/uw4r6264snl6rvl/CSS%20Min-height%20%26%20Max-height%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+JS
+
+	1.	JavaScript Introduction
+		
+		https://www.dropbox.com/s/7hssoyh98lyazca/JavaScript%20Introduction%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	2.	JavaScript Implementation
+
+		https://www.dropbox.com/s/58c9sjy6hnrme7f/JavaScript%20Implementation%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	3.	JavaScript Comment
+
+		https://www.dropbox.com/s/c2912rize9bkz9t/JavaScript%20Comments%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	4.	JavaScript Variable
+
+		https://www.dropbox.com/s/0f8j20vpd9krnlb/JavaScript%20Variables%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	5.	JavaScript Variable ( Let & Const)
+
+		https://www.dropbox.com/s/qoattz4ahscrqqs/JavaScript%20Variables%20%28%20Let%20%26%20Const%20%29%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+
+	6.	Add Html Tags in JavaScript
+
+		https://www.dropbox.com/s/fprhj68txmxevcr/Add%20Html%20Tags%20in%20JavaScript%20Tutorial%20in%20Hindi%20%20%20Urdu.mkv?dl=0
+		
+		
